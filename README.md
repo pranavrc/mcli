@@ -1,1 +1,3 @@
-Pseudo-Command Line environment for on-the-fly music composition. Using PySynth, and Pyaudio.
+Python Command-Line Musical Interpreter using PySynth and Pyaudio.
+
+Pranav Ravichandran (me@onloop.net)
